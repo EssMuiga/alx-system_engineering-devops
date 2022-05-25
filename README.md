@@ -1,2 +1,2 @@
 #!/bin/bash
-In this repository we are doing shell basics
+This script prints the absolute pathname for current working directory
