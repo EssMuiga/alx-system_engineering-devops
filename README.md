@@ -1,2 +1,2 @@
 #!/bin/bash
-This script prints the absolute pathname for current working directory
+Writing a script that prints the absolute pathname for the current working directory
